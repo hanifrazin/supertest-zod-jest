@@ -1,0 +1,5 @@
+{
+    "testing.automaticallyOpenTestResults": "neverOpen",
+    "jest.runMode": "on-demand",
+
+}

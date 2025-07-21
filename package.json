@@ -1,0 +1,27 @@
+{
+  "name": "supertest-zod-jest",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hanifrazin/supertest-zod-jest#readme",
+  "bugs": {
+    "url": "https://github.com/hanifrazin/supertest-zod-jest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanifrazin/supertest-zod-jest.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "devDependencies": {
+    "allure-jest": "^3.3.2",
+    "jest": "^30.0.4",
+    "supertest": "^7.1.3",
+    "zod": "^4.0.5",
+    "jest-environment-node": "^30.0.4"
+  }
+}
